@@ -1,0 +1,9 @@
+numpy
+torch
+matplotlib
+plotly
+umap-learn
+scikit-learn
+scipy
+sentence-transformers
+tqdm
